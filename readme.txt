@@ -1,4 +1,6 @@
-Funkcja				Opis	
+Sposób przekazania Stringa: localhost:8080/string?string=[tutaj_string]
+
+Funkcja				Opis
 getContent			zwraca string podany jako parametr
 getNumberCount			zwraca ilość liczb w stringu podanym jako parametr
 getLowerCaseCount		zwraca ilość małych liter w stringu podanym jako parametr
